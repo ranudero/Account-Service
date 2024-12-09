@@ -1,0 +1,26 @@
+### Project Specific ###
+
+### Lab specific ###
+
+Account Service (Java)/Attention to business
+Account Service (Java)/Create the service structure (API)
+Account Service (Java)/Logging events
+Account Service (Java)/Securing connection
+Account Service (Java)/Security first
+Account Service (Java)/The authentication
+Account Service (Java)/The authorization
+
+/Topics
+course-info.yaml
+course-remote-info.yaml
+
+
+### IDEA ###
+.idea/
+*.iml
+
+
+### Gradle ###
+.gradle/
+*build
+*out
