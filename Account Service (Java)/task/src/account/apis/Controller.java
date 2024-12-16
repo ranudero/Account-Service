@@ -25,7 +25,6 @@ public class Controller {
 
     @PostMapping("signup")
     public CreatedUserDTO addUser(@RequestBody @Valid SignupNewUserCommand newUser) {
-        System.out.println("Hallo daar");
         return userService.createNewUser(newUser);
     }
 }
